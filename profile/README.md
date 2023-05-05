@@ -1,3 +1,3 @@
-# Club Cabana
+# CastCam
 
 Something exciting for the fediverse.
